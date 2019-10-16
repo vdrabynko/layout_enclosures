@@ -8,17 +8,17 @@ body {
   border: 1px solid #e75551;
 }
 
-.blue {
+.top {
   margin: 20px 20px 40px;
   background-color: #308dc0;
   width: 350px;
   box-sizing: border-box;
 }
 
-.orange {
+.middle {
   background-color: #ffa500;
 }
 
-.white {
+.bottom {
   background-color: #ddd;
 }
